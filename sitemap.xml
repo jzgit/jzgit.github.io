@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://jzgit.github.io/blog/2013/11/20/test/</loc>
+        <lastmod>2013-11-20T11:06:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jzgit.github.io/blog/2013/11/20/another-post-woo/</loc>
+        <lastmod>2013-11-20T11:07:27-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jzgit.github.io/blog/2013/11/20/alnoor-you-should-reinstall/</loc>
+        <lastmod>2013-11-20T11:07:49-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jzgit.github.io/blog/archives/</loc>
+        <lastmod>2013-11-20T11:07:49-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jzgit.github.io/</loc>
+        <lastmod>2013-11-20T11:07:49-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jzgit.github.io/robots.txt</loc>
+        <lastmod>2013-11-20T10:23:17-05:00</lastmod>
+    </url>
+</urlset>
